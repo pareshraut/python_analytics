@@ -1,0 +1,453 @@
+product_id;product_name;price;category
+1;Flour - Whole Wheat;74.2988;Baked-Baking
+391;Bread - Bistro White;65.0908;Baked-Baking
+378;Bread Foccacia Whole;90.7877;Baked-Baking
+217;Bread - Multigrain;96.52;Baked-Baking
+368;Flour - Teff;18.2978;Baked-Baking
+367;Bread - Italian Corn Meal Poly;63.8281;Baked-Baking
+224;Flour - Pastry;28.8618;Baked-Baking
+42;Bread - Raisin Walnut Oval;81.0488;Baked-Baking
+43;Sponge Cake Mix - Chocolate;16.3983;Baked-Baking
+229;Bread - Hot Dog Buns;57.9838;Baked-Baking
+345;Bread - Calabrese Baguette;98.5978;Baked-Baking
+341;Bread - Roll, Canadian Dinner;90.2641;Baked-Baking
+235;Bread - English Muffin;34.5061;Baked-Baking
+337;Bread - Rye;83.5373;Baked-Baking
+336;Broom - Corn;71.9241;Baked-Baking
+59;Pastry - Butterscotch Baked;73.5389;Baked-Baking
+305;Pastry - Cheese Baked Scones;91.0997;Baked-Baking
+262;Bagel - Plain;36.4605;Baked-Baking
+66;Pie Filling - Cherry;9.8823;Baked-Baking
+287;Bread - Italian Roll With Herbs;57.709;Baked-Baking
+107;Bread - French Baquette;7.4151;Baked-Baking
+189;Bread - Roll, Soft White Round;76.3021;Baked-Baking
+221;Bread Crumbs - Panko;81.9008;Baked-Baking
+283;Bread Fig And Almond;1.1882;Baked-Baking
+165;Bread Crumbs - Japanese Style;0.0449;Baked-Baking
+9;Rabbit - Whole;84.4219;Baked-Baking
+136;Vol Au Vents;24.3913;Baked-Baking
+405;Pastry - Raisin Muffin - Mini;0.4278;Baked-Baking
+445;Pastry - Choclate Baked;59.2467;Baked-Baking
+181;Phyllo Dough;64.5718;Baked-Baking
+269;Wine - Blue Nun Qualitatswein;26.706;Beverages
+141;Tea - Herbal Sweet Dreams;10.964;Beverages
+88;Remy Red;91.996;Beverages
+138;Rum - Coconut, Malibu;52.6367;Beverages
+87;Wine - Pinot Noir Latour;3.7847;Beverages
+240;Wine - Chablis 2003 Champs;?;Beverages
+247;Juice - Apple Cider;59.0033;Beverages
+76;Wine - Fume Blanc Fetzer;?;Beverages
+252;Nantucket - Pomegranate Pear;27.8169;Beverages
+258;Tea - English Breakfast;31.0939;Beverages
+127;Island Oasis - Mango Daiquiri;54.1413;Beverages
+82;Jolt Cola - Electric Blue;56.8099;Beverages
+276;Snapple - Iced Tea Peach;?;Beverages
+264;Juice - V8 Splash;49.4497;Beverages
+78;Wine - Magnotta - Belpaese;30.4202;Beverages
+134;Wine - Toasted Head;39.8545;Beverages
+137;Wine - White, Schroder And Schyl;84.0566;Beverages
+145;Wine - Chardonnay South;?;Beverages
+182;Campari;25.586;Beverages
+184;Hersey Shakes;26.5776;Beverages
+191;Hickory Smoke, Liquid;10.283;Beverages
+192;Wine - Magnotta, Merlot Sr Vqa;?;Beverages
+104;Tia Maria;98.2471;Beverages
+201;Grenadine;96.3871;Beverages
+178;Pernod;52.3623;Beverages
+207;Coffee - Hazelnut Cream;?;Beverages
+211;Wine - Prosecco Valdobiaddene;2.0587;Beverages
+213;Pate - Cognac;70.5891;Beverages
+176;Smirnoff Green Apple Twist;81.3167;Beverages
+231;Crush - Cream Soda;68.3066;Beverages
+74;Carbonated Water - Cherry;13.6241;Beverages
+169;Water - Aquafina Vitamin;?;Beverages
+222;Sole - Dover, Whole, Fresh;0.6846;Beverages
+225;Wine - Charddonnay Errazuriz;10.3722;Beverages
+157;Juice - Cranberry, 341 Ml;14.1082;Beverages
+153;Arizona - Green Tea;?;Beverages
+94;V8 - Berry Blend;43.5109;Beverages
+148;Beer - Sleemans Cream Ale;28.5553;Beverages
+92;Wine - Red, Colio Cabernet;60.2161;Beverages
+230;Wine - Cahors Ac 2000, Clos;83.5389;Beverages
+172;Sherry - Dry;16.0013;Beverages
+120;Water - Spring Water 500ml;2.7314;Beverages
+65;Brandy - Bar;21.1106;Beverages
+284;Beer - Rickards Red;?;Beverages
+380;Wine - White Cab Sauv.on;85.9743;Beverages
+28;Sobe - Tropical Energy;12.3153;Beverages
+394;Rum - Mount Gay Eclipes;50.1484;Beverages
+395;Juice - Lime;91.7833;Beverages
+396;Tea - Jasmin Green;36.9165;Beverages
+24;Beer - Alexander Kieths, Pale Ale;89.037;Beverages
+397;Juice - Happy Planet;20.8169;Beverages
+398;Wine - Wyndham Estate Bin 777;42.3632;Beverages
+400;Carbonated Water - Blackcherry;?;Beverages
+19;Tea - Earl Grey;22.5614;Beverages
+407;Pepsi - Diet, 355 Ml;69.7674;Beverages
+377;Wine - Red, Cooking;75.0785;Beverages
+17;Wine - White, Mosel Gold;43.9182;Beverages
+427;Wine - Vineland Estate Semi - Dry;46.3252;Beverages
+13;Water, Tap;28.2232;Beverages
+428;Wine - Ruffino Chianti;4.7235;Beverages
+430;Milk - 1%;46.2589;Beverages
+432;Beer - Original Organic Lager;32.7153;Beverages
+438;Juice - Orange;44.9415;Beverages
+442;Wine - Ej Gallo Sierra Valley;72.9041;Beverages
+6;Wine - Magnotta - Cab Sauv;79.7184;Beverages
+448;Gatorade - Xfactor Berry;76.8988;Beverages
+449;Nantuket Peach Orange;42.1414;Beverages
+450;Wine - Vidal Icewine Magnotta;7.107;Beverages
+425;Wine - Redchard Merritt;?;Beverages
+282;Lemonade - Natural, 591 Ml;56.1506;Beverages
+375;Snapple Lemon Tea;83.1755;Beverages
+35;Water - Mineral, Natural;15.7233;Beverages
+294;Wine - Alsace Gewurztraminer;80.7133;Beverages
+67;Wine - Sogrape Mateus Rose;3.7805;Beverages
+128;Coffee - Irish Cream;4.6797;Beverages
+296;Wine - Valpolicella Masi;?;Beverages
+298;Pop Shoppe Cream Soda;?;Beverages
+301;Beer - Labatt Blue;43.412;Beverages
+308;Tea - Decaf Lipton;88.1209;Beverages
+310;Coffee - Dark Roast;79.978;Beverages
+315;Wine - Gato Negro Cabernet;93.8047;Beverages
+317;Water - Green Tea Refresher;35.2723;Beverages
+374;Jagermeister;49.3846;Beverages
+132;Beer - Blue;11.6217;Beverages
+53;Cassis;92.6279;Beverages
+51;Wine - Crozes Hermitage E.;81.0134;Beverages
+49;Bacardi Breezer - Tropical;61.4317;Beverages
+350;Isomalt;82.83;Beverages
+351;Hot Chocolate - Individual;96.0823;Beverages
+360;Wine - Hardys Bankside Shiraz;52.2407;Beverages
+44;Wine - White, Colubia Cresh;48.5981;Beverages
+361;Coffee Decaf Colombian;36.4516;Beverages
+365;Wine - Red, Harrow Estates, Cab;12.6274;Beverages
+372;Wine - Two Oceans Cabernet;6.2824;Beverages
+323;Extract - Lemon;54.3266;Beverages
+266;Clam Nectar;68.1097;Canned
+364;Cattail Hearts;8.8429;Canned
+288;Orange - Canned, Mandarin;78.8405;Canned
+414;Sauerkraut;83.0585;Canned
+226;Chestnuts - Whole,canned;92.0872;Canned
+61;Sardines;62.546;Canned
+255;Kellogs All Bran Bars;29.2287;Cereals
+16;Kellogs Special K Cereal;54.7246;Cereals
+424;Vinegar - Tarragon;85.8828;Condiment
+366;Tahini Paste;80.4483;Condiment
+64;Vinegar - Sherry;16.5229;Condiment
+34;Mustard Prepared;43.3463;Condiment
+99;Mustard - Seed;27.4874;Condiment
+117;Ketchup - Tomato;68.638;Condiment
+220;Meldea Green Tea Liquor;17.961;Condiment
+63;Cake - Mini Cheesecake;56.2689;Confections
+186;Muffin Mix - Blueberry;82.0839;Confections
+109;Muffin - Zero Transfat;49.3791;Confections
+81;Cookies - Assorted;86.6483;Confections
+401;Tart Shells - Sweet, 4;53.3634;Confections
+190;Cake - Cake Sheet Macaroon;39.7378;Confections
+295;Ice - Clear, 300 Lb For Carving;48.7695;Confections
+331;Cookies Cereal Nut;67.3505;Confections
+20;Chocolate - Feathers;85.9011;Confections
+112;Browning Caramel Glace;81.7943;Confections
+272;Chocolate - Semi Sweet, Calets;68.1134;Confections
+342;Mangoes;69.5881;Confections
+399;Berry Brulee;50.9114;Confections
+55;Cinnamon Buns Sticky;6.6182;Confections
+326;Appetizer - Mushroom Tart;38.859;Confections
+180;Chocolate - Dark;30.8932;Confections
+309;Muffin Batt - Choc Chk;27.6344;Confections
+387;Fondant - Icing;41.6386;Confections
+384;Fond - Neutral;56.5197;Confections
+2;Cookie Chocolate Chip With;91.2329;Confections
+383;Cake - Box Window 10x10x2.5;9.9694;Confections
+124;Macaroons - Two Bite Choc;18.2891;Confections
+219;Assorted Desserts;58.9787;Confections
+431;Muffin Chocolate Individual Wrap;19.9957;Confections
+371;Creme De Banane - Marie;82.4022;Confections
+214;French Pastry - Mini Chocolate;61.2121;Confections
+349;Puree - Mocha;86.9086;Confections
+121;Muffin Batt - Blueberry Passion;6.0976;Confections
+434;Cookie - Dough Variety;71.1551;Confections
+27;Chocolate - Compound Coating;17.1724;Confections
+41;Cup - 6oz, Foam;81.721;Confections
+392;Puree - Passion Fruit;98.8263;Confections
+285;Cheese - Mix;71.8302;Dairy
+71;Cheese - Wine;74.4076;Dairy
+227;Cheese - Taleggio D.o.p.;55.4699;Dairy
+210;Cheese - Brie,danish;82.2358;Dairy
+241;Cheese - Cheddarsliced;67.8151;Dairy
+270;Cheese Cloth No 100;4.4216;Dairy
+85;Cheese - Parmesan Cubes;86.8857;Dairy
+260;Yogurt - Blueberry, 175 Gr;26.8886;Dairy
+316;Cheese - Victor Et Berthold;65.9395;Dairy
+96;Cheese - Bocconcini;62.1993;Dairy
+147;Cheese - Mozzarella;49.6197;Dairy
+353;Milk Powder;18.1191;Dairy
+179;Yoghurt Tubes;83.8752;Dairy
+346;Cheese - Parmesan Grated;17.1914;Dairy
+444;Cheese - Cambozola;44.0886;Dairy
+338;Cheese - Camembert;28.9899;Dairy
+333;Cheese - Cottage Cheese;20.2364;Dairy
+370;Muffin - Carrot Individual Wrap;21.8806;Dairy
+358;Cheese - Boursin, Garlic / Herbs;84.7111;Dairy
+402;Butter - Unsalted;76.3275;Dairy
+30;Cheese - Brie, Triple Creme;67.899;Dairy
+168;Milk - 2%;70.7419;Dairy
+320;Yogurt - French Vanilla;73.4396;Dairy
+355;Olives - Stuffed;59.1687;Deli
+330;Olives - Kalamata;18.7914;Deli
+393;Olive - Spread Tapenade;59.9572;Deli
+93;Bandage - Fexible 1x3;8.119;Health Wellness
+135;Wiberg Super Cure;10.9641;Health Wellness
+410;Fenngreek Seed;18.356;Health Wellness
+273;Bandage - Flexible Neon;77.5913;Health Wellness
+36;Table Cloth 54x72 White;69.2574;Household goods
+91;General Purpose Trigger;57.0429;Household goods
+15;Spoon - Soup, Plastic;32.442;Household goods
+381;Vaccum Bag 10x13;44.2337;Household goods
+40;Cocktail Napkin Blue;8.9372;Household goods
+31;Yeast Dry - Fermipan;73.9851;Household goods
+307;Foam Cup 6 Oz;50.2256;Household goods
+246;Ice Cream Bar - Hageen Daz To;48.5371;Household goods
+420;Whmis - Spray Bottle Trigger;69.9163;Household goods
+347;Pail For Lid 1537;94.6253;Household goods
+418;Truffle Cups - Brown;92.2516;Household goods
+413;Ice Cream Bar - Oreo Cone;95.4065;Household goods
+54;Liners - Banana, Paper;53.5592;Household goods
+297;Hinge W Undercut;81.9003;Household goods
+319;Towels - Paper / Kraft;77.6195;Household goods
+409;Skirt - 29 Foot;23.522;Household goods
+403;Liners - Baking Cups;68.1898;Household goods
+12;Ezy Change Mophandle;49.3356;Household goods
+242;Thermometer Digital;32.65;Household goods
+388;Table Cloth 120 Round White;13.5389;Household goods
+452;Napkin White - Starched;28.5653;Household goods
+144;Placemat - Scallop, White;95.7865;Household goods
+185;Foam Dinner Plate;48.4195;Household goods
+154;Ice Cream Bar - Drumstick;24.756;Household goods
+122;Table Cloth 62x114 White;11.7845;Household goods
+209;Sugar - Fine;32.9885;Household goods
+118;Garbag Bags - Black;65.967;Household goods
+113;Ocean Spray - Kiwi Strawberry;10.5964;Household goods
+7;Table Cloth - 53x69 Colour;31.837;Household goods
+436;Table Cloth 81x81 White;67.9063;Household goods
+171;Gloves - Goldtouch Disposable;21.6794;Household goods
+115;Ocean Spray - Ruby Red;45.0466;Household goods
+11;Garbage Bags - Clear;6.2949;Household goods
+166;Tray - 16in Rnd Blk;23.2843;Household goods
+116;Steam Pan - Half Size Deep;5.736;Household goods
+188;Cup - Translucent 7 Oz Clear;78.1768;Household goods
+45;Beef - Ground Medium;79.5324;Meat
+73;Appetizer - Sausage Rolls;48.1907;Meat
+352;Beef - Tenderlion, Center Cut;24.6393;Meat
+193;Veal - Inside, Choice;60.5314;Meat
+286;Beef - Prime Rib Aaa;40.4897;Meat
+199;Pork - Hock And Feet Attached;95.7415;Meat
+130;Beef Wellington;41.9808;Meat
+97;Veal - Inside;24.7798;Meat
+439;Beef - Chuck, Boneless;56.0919;Meat
+417;Lamb - Pieces, Diced;43.3781;Meat
+18;Lamb - Whole, Fresh;23.3966;Meat
+344;Sausage - Liver;63.5389;Meat
+160;Beef Ground Medium;54.6874;Meat
+313;Veal - Slab Bacon;39.9111;Meat
+57;Sausage - Breakfast;12.2145;Meat
+50;Pork - Kidney;43.2864;Meat
+340;Veal - Sweetbread;28.2349;Meat
+339;Beef - Striploin Aa;2.389;Meat
+114;Veal - Osso Bucco;79.5638;Meat
+329;Pork - Loin, Center Cut;39.3496;Meat
+46;Lambcasing;86.7915;Meat
+440;Pork - Inside;32.9092;Meat
+279;Beef - Texas Style Burger;91.1828;Meat
+244;Beef - Rib Eye Aaa;94.0664;Meat
+419;Pork - Belly Fresh;86.1338;Meat
+248;Beef - Inside Round;99.3193;Meat
+133;Beef - Top Sirloin - Aaa;2.9327;Meat
+373;Beef - Montreal Smoked Brisket;54.8719;Meat
+385;Pork - Back, Short Cut, Boneless;22.7091;Meat
+83;Lamb - Ground;50.8837;Meat
+89;Beef - Ground, Extra Lean, Fresh;36.7281;Meat
+100;Pork - Loin, Bone - In;69.6501;Meat
+215;Veal - Brisket, Provimi,bnls;90.1157;Meat
+14;Beef - Top Sirloin;3.3324;Meat
+429;Beef - Short Loin;57.6013;Meat
+259;Veal - Eye Of Round;67.4367;Meat
+142;Pork - Bacon, Double Smoked;24.7809;Meat
+390;Seedlings - Mix, Organic;1.2956;Other
+311;Wonton Wrappers;40.206;Other
+58;Dc Hikiage Hira Huba;20.1009;Other
+223;Pail With Metal Handle 16l White;94.4399;Other
+332;Bouq All Italian - Primerba;59.7578;Other
+105;Ecolab - Mikroklene 4/4 L;68.8789;Other
+289;Sword Pick Asst;43.5169;Other
+318;Ecolab - Solid Fusion;57.261;Other
+103;Cream Of Tartar;72.7534;Other
+253;Wanton Wrap;76.24;Other
+416;Baking Powder;84.6763;Other
+75;Chef Hat 20cm;4.18;Other
+356;Dc - Frozen Momji;17.1274;Other
+334;Ecolab - Lime - A - Way 4/4 L;21.6133;Other
+274;Papayas;88.1192;Pasta
+79;Pasta - Penne, Rigate, Dry;9.5045;Pasta
+376;Pasta - Angel Hair;40.8126;Pasta
+108;Pasta - Orecchiette;79.0038;Pasta
+257;Pasta - Detalini, White, Fresh;84.438;Pasta
+348;Pasta - Cheese / Spinach Bauletti;55.3683;Pasta
+129;Chicken - Soup Base;67.2329;Poultry
+327;Appetizer - Mini Egg Roll, Shrimp;7.1436;Poultry
+232;Quiche Assorted;33.949;Poultry
+233;Duck - Breast;56.6209;Poultry
+174;Guinea Fowl;61.5047;Poultry
+39;Dried Figs;75.2059;Poultry
+161;Longos - Chicken Wings;64.6118;Poultry
+203;Chicken - Leg, Boneless;59.9557;Poultry
+411;Durian Fruit;42.0489;Poultry
+139;Chicken - Wieners;21.423;Poultry
+86;Longos - Grilled Chicken With;18.3791;Poultry
+292;Turkey - Oven Roast Breast;34.5364;Poultry
+261;Chinese Foods - Chicken;22.0901;Poultry
+196;Longos - Grilled Salmon With Bbq;8.2286;Poultry
+205;Turkey - Whole, Fresh;18.9757;Poultry
+48;Pecan Raisin - Tarts;60.3625;Produce
+369;Rambutan;87.1785;Produce
+151;Mushrooms - Black, Dried;93.5613;Produce
+164;Loquat;7.3982;Produce
+146;Bananas;75.2486;Produce
+155;Peas - Pigeon, Dry;63.5524;Produce
+52;Turnip - White, Organic;55.6059;Produce
+38;Sage - Ground;81.6579;Produce
+163;Tomatoes Tear Drop;11.7708;Produce
+143;Watercress;42.6169;Produce
+386;Sprouts - Baby Pea Tendrils;42.7112;Produce
+32;Lettuce - Treviso;96.4127;Produce
+47;Thyme - Lemon, Fresh;47.1339;Produce
+149;Zucchini - Yellow;98.4644;Produce
+156;Sprouts - Alfalfa;71.2264;Produce
+158;Apricots Fresh;54.4643;Produce
+3;Onions - Cippolini;9.1379;Produce
+140;Oregano - Dry, Rubbed;68.1326;Produce
+150;Langers - Ruby Red Grapfruit;40.6552;Produce
+159;Eggplant - Asian;92.1053;Produce
+33;Beans - Wax;45.5551;Produce
+29;Spinach - Baby;33.5883;Produce
+5;Artichokes - Jerusalem;65.4771;Produce
+152;Lentils - Red, Dry;58.8128;Produce
+408;Blueberries;68.7346;Produce
+167;Knife Plastic - White;78.8615;Produce
+198;Lime Cordial - Roses;35.2187;Produce
+271;Banana - Leaves;73.3954;Produce
+77;Potatoes - Idaho 100 Count;11.4971;Produce
+267;Grapes - Red;5.125;Produce
+265;Mushroom - Porcini, Dry;13.9292;Produce
+200;Garlic - Peeled;11.1295;Produce
+202;Bay Leaf;78.8778;Produce
+435;Salsify, Organic;32.6109;Produce
+84;Peas - Frozen;90.3019;Produce
+251;Oranges - Navel, 72;11.7087;Produce
+21;Kiwi;46.7252;Produce
+422;Garlic - Primerba, Paste;50.2892;Produce
+206;Cocoa Butter;77.56;Produce
+243;Sun - Dried Tomatoes;45.1883;Produce
+102;Rosemary - Primerba, Paste;62.257;Produce
+208;Mushroom - Trumpet, Dry;8.7335;Produce
+238;Garlic;28.4065;Produce
+237;Mayonnaise - Individual Pkg;65.6303;Produce
+236;Tomato - Tricolor Cherry;85.694;Produce
+234;Tofu - Firm;72.7457;Produce
+433;Beans - Kidney, Red Dry;39.8762;Produce
+95;Beans - Kidney White;46.3913;Produce
+249;Cookie Dough - Double;76.6201;Produce
+280;Onion Powder;61.8352;Produce
+278;Apricots - Halves;0.3735;Produce
+302;Doilies - 5, Paper;61.1598;Produce
+443;Lettuce - Spring Mix;90.0169;Produce
+324;Apricots - Dried;87.9023;Produce
+322;Onions - Vidalia;26.2846;Produce
+321;Potatoes - Instant, Mashed;10.4007;Produce
+173;Rosemary - Dry;44.544;Produce
+404;Pants Custom Dry Clean;65.028;Produce
+177;Coconut - Shredded, Sweet;69.1677;Produce
+441;Blackberries;72.9439;Produce
+110;Black Currants;40.9417;Produce
+304;Banana Turning;72.1984;Produce
+195;Beets - Mini Golden;3.5208;Produce
+389;Pomello;62.4447;Produce
+300;Beans - Kidney, Canned;69.5694;Produce
+299;Fuji Apples;80.1371;Produce
+68;Beets - Candy Cane, Organic;84.8769;Produce
+293;Garlic - Elephant;60.9698;Produce
+69;Raspberries - Fresh;87.6092;Produce
+194;Lettuce - Frisee;66.7357;Produce
+412;Lettuce - California Mix;16.0456;Produce
+62;Pears - Bosc;19.5217;Produce
+22;Rice - Jasmine Sented;27.8955;Rice-Grain
+275;Corn Meal;50.146;Rice-Grain
+359;Rice - Long Grain;69.0327;Rice-Grain
+423;Fish - Scallops, Cold Smoked;55.8531;Seafood
+8;Halibut - Steaks;89.8573;Seafood
+447;Salmon - Atlantic, Skin On;3.4198;Seafood
+26;Squid U5 - Thailand;33.7821;Seafood
+131;Anchovy Paste - 56 G Tube;40.8967;Seafood
+291;Crab - Dungeness, Whole;1.2559;Seafood
+90;Flavouring - Orange;69.32;Seafood
+245;Grouper - Fresh;37.6791;Seafood
+106;Pickerel - Fillets;18.753;Seafood
+277;Sea Bass - Whole;55.4964;Seafood
+218;Barramundi;85.1933;Seafood
+303;Cod - Black Whole Fillet;72.6133;Seafood
+312;Salmon - Sockeye Raw;84.0645;Seafood
+314;Salmon Steak - Cohoe 8 Oz;5.6015;Seafood
+325;Halibut - Fletches;3.1657;Seafood
+70;Squid - Tubes / Tenticles 10/20;63.1846;Seafood
+363;Cornflakes;48.7712;Seafood
+357;Tilapia - Fillets;6.8332;Seafood
+328;Tuna - Salad Premix;96.8781;Seafood
+335;Oil - Shortening,liqud, Fry;18.4231;Seeds-Nuts-Oils
+37;Nut - Pistachio, Shelled;80.3171;Seeds-Nuts-Oils
+123;Oil - Shortening - All - Purpose;48.1487;Seeds-Nuts-Oils
+446;Sunflower Seed Raw;49.0452;Seeds-Nuts-Oils
+125;Nut - Chestnuts, Whole;6.1417;Seeds-Nuts-Oils
+175;Oil - Safflower;91.7675;Seeds-Nuts-Oils
+98;Shrimp - 31/40;99.8755;Shell fish
+10;Scampi Tail;95.0957;Shell fish
+426;Scallops - Live In Shell;83.5759;Shell fish
+204;Scallop - St. Jaques;77.809;Shell fish
+197;Mussels - Cultivated;13.0101;Shell fish
+111;Scallops 60/80 Iqf;34.9061;Shell fish
+216;Scallops - 10/20;39.0257;Shell fish
+415;Mussels - Frozen;8.0069;Shell fish
+406;Shrimp - Baby, Warm Water;89.7999;Shell fish
+170;Initation Crab Meat;20.6553;Shell fish
+281;Bar Mix - Pina Colada, 355 Ml;33.0839;Snacks
+126;Crackers - Trio;14.1914;Snacks
+437;Chips Potato All Dressed - 43g;83.5856;Snacks
+72;Bar - Granola Trail Mix Fruit Nut;62.2603;Snacks
+23;Crab - Imitation Flakes;79.0184;Snacks
+354;Crackers Cheez It;6.6975;Snacks
+56;Chips Potato Salt Vinegar 43g;46.4033;Snacks
+119;Soup Campbells - Italian Wedding;29.6372;Soup-Broth
+101;Soup - Campbells, Lentil;83.011;Soup-Broth
+4;Sauce - Gravy, Au Jus, Mix;54.3055;Soup-Broth
+162;Sauce - Demi Glace;2.7353;Soup-Broth
+421;Soup V8 Roasted Red Pepper;38.8096;Soup-Broth
+263;Soupfoamcont12oz 112con;50.7497;Soup-Broth
+228;Sauce - Hollandaise;77.8083;Soup-Broth
+239;Soup - Campbells, Cream Of;7.6019;Soup-Broth
+250;Soup - Campbells, Beef Barley;64.4951;Soup-Broth
+382;Soup - Campbells Bean Medley;51.7754;Soup-Broth
+254;Soup - Canadian Pea, Dry Mix;77.7804;Soup-Broth
+25;Soupcontfoam16oz 116con;80.7666;Soup-Broth
+256;Soup Knorr Chili With Beans;95.7024;Soup-Broth
+451;Soup - Campbells Tomato Ravioli;93.5384;Soup-Broth
+343;Otomegusa Dashi Konbu;51.2061;Soup-Broth
+290;Sauce - Rosee;38.8037;Soup-Broth
+362;Cumin - Whole;53.3476;Spices
+60;Pepper - Paprika, Hungarian;31.6949;Spices
+212;Curry Paste - Madras;61.746;Spices
+268;Vanilla Beans;97.8435;Spices
+80;Wasabi Powder;93.9752;Spices
+183;Spice - Peppercorn Melange;6.2154;Spices
+187;Pepper - Black, Whole;41.3835;Spices
+306;Pepper - White, Ground;43.5953;Spices
+379;Smoked Paprika;89.3046;Spices
